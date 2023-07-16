@@ -150,3 +150,13 @@ tensor([4.0960e+02, 4.0960e+03, 4.0960e-01])
 
 
 
+
+
+### 二、Pytorch与Paddle
+
+Paddle上很多语法和pytorch是类似的，详细可见以下链接
+
+[PaddlePaddle与PyTorch的转换_paddle转pytorch_shaojie_45的博客-CSDN博客](https://blog.csdn.net/shaojie_45/article/details/115445796?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~Rate-1-115445796-blog-119469002.235^v38^pc_relevant_anti_t3&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~Rate-1-115445796-blog-119469002.235^v38^pc_relevant_anti_t3&utm_relevant_index=2)
+
+[飞桨PaddlePaddle-源于产业实践的开源深度学习平台](https://www.paddlepaddle.org.cn/tutorials/projectdetail/3578658)
+
