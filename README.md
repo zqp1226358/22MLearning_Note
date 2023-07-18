@@ -1,6 +1,6 @@
 <h1 align="center">学习笔记记录</h1>
 
-<p align="center"><a href="http:"><img src="https://img.shields.io/badge/%E4%BD%9C%E8%80%85-ZhuQingpeng-7AD6FD.svg"></a></p>
+<p align="center"><a href="http:"><img src="https://img.shields.io/badge/%E4%BD%9C%E8%80%85-Override-7AD6FD.svg"></a></p>
 
 ## 目录
 
