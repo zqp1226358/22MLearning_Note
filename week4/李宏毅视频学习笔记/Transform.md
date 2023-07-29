@@ -1,3 +1,7 @@
+参考文章：
+
+https://blog.csdn.net/toro180/article/details/125501853
+
 ## 一、Transformer应用
 
 Transformer就是一个Sequence-to-sequence的model,他的缩写,我们会写做**Seq2seq**
